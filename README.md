@@ -13,7 +13,7 @@ Ensure you have the following installed on your machine:<br>
 Visual Studio<br>
 .NET Framework
 ## Installation
-Clone the repository: git clone https://github.com/yourusername/StartupManager.git<br>
+Clone the repository: git clone https://github.com/RubavathyImmanuvel/StartupManager.git<br>
 Open the solution file StartupManager.sln in Visual Studio.<br>
 Build the solution to restore the necessary packages.
 ## Running the Application
